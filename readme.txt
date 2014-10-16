@@ -28,7 +28,7 @@ Here font that I use in this plugin:
 The plugin is just simple which we can transform the Arabic text to specific font that we want by click the icon in text editor of posts or pages. And also I create option pages in case that no need all customize configuration in shortcode.
 
 == Installation ==
-Arabic Font plugin support to place your Arabic text in <span> or <div> and here complete configuration:
+Arabic Font plugin support to place your Arabic text in <code><span></code> or <code><div></code> and here complete configuration:
 
 [arabic-font font_family="JF Flat Jozoor" font_size="36" line_height="65" text_align="center" span="no"]???? ????? ?????[/arabic-font]
 
@@ -43,6 +43,6 @@ All you have to do is highlight the Arabic text that you want to change the font
 
 1. **Button Shortcode** - You simply select the Arabic text in WordPress posts or pages and then click the button
 2. **Default Shortcode** - Simple how to apply the shortcode that will occur based on the option
-3. **More Setting for Shortcode** - Choose your Arabic text to <span> that will not change the Arabic text position in the paragraph and <div> if you want make Arabic text as new paragraph, and of cpurse you can choose font for Arabic text. 
-4. **Display Result** - This is how the different between <span> and <div> and different font in same posts or pages
+3. **More Setting for Shortcode** - Choose your Arabic text to <code><span></code> that will not change the Arabic text position in the paragraph and <code><div></code> if you want make Arabic text as new paragraph, and of cpurse you can choose font for Arabic text. 
+4. **Display Result** - This is how the different between <code><span></code> and <code><div></code> and different font in same posts or pages
 5. **Panel** - Panel for more easy to apply for simple shortcode
