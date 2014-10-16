@@ -15,7 +15,7 @@ My friend is lot write with Arabic language and I tried to find plugins that wil
 Here font that I use in this plugin:
 
 <ul>
-</li>JF Flat Jozzor => http://fonts.jozoor.com/flat-font/</li>
+<li>JF Flat Jozzor => http://fonts.jozoor.com/flat-font/</li>
 <li>Ara Jozoor => http://fonts.jozoor.com/jozoor-font/</li>
 <li>KFGQPC Uthman Taha Naskh => http://fonts.qurancomplex.gov.sa/?page_id=42</li>
 <li>PDMS Saleem QuranFont => http://pakdata.com/products/arabicfont</li>
