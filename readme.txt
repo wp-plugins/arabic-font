@@ -1,6 +1,6 @@
 === Arabic Font ===
 Contributors: darto
-Tags: arabic, font
+Tags: arabic, font, arabic text, shortcode
 Tested up to: 4.0
 Stable tag: 1.0
 Requires at least: 3.0
