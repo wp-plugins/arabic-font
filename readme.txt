@@ -27,6 +27,8 @@ Here font that I use in this plugin:
 
 The plugin is just simple which we can transform the Arabic text to specific font that we want by click the icon in text editor of posts or pages. And also I create option pages in case that no need all customize configuration in shortcode.
 
+If you want to add Islamic date (Hijr) in your blog, you can try <a href="https://wordpress.org/plugins/penanggalan-hijriyah-masehi/">Penanggalan Hijriyah &amp Masehi</a>.
+
 == Installation ==
 Arabic Font plugin support to place your Arabic text in <code><span></code> or <code><div></code> and here complete configuration:
 
