@@ -5,7 +5,7 @@ Declare options
  
 $AF_options = array (
  
-array( "name" => $pluginname." Options",
+array( "name" => $AF_pluginname." Options",
 "type" => "title"),
 
 /* ---------------------------------------------------------
