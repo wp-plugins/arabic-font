@@ -4,7 +4,7 @@ Plugin Name: Arabic Font
 Plugin URI: http://www.kloningspoon.com/arabic-font/
 Description: Easy implement Arabic font for writing in WordPress.
 Author: Darto KLoning
-Version: 1.0
+Version: 1.1
 Author URI: http://www.kloningspoon.com/
 
 Copyright 2014  Darto KLoning (email: darto@kloningspoon.com)

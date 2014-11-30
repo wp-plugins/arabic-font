@@ -2,7 +2,7 @@
 Contributors: darto
 Tags: arabic, font, arabic text, shortcode
 Tested up to: 4.0
-Stable tag: 1.0
+Stable tag: 1.1
 Requires at least: 3.0
 
 An easy way to stylish your Arabic font
