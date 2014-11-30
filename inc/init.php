@@ -30,7 +30,7 @@ if ( ! function_exists( 'AF_reminder' ) ){
 		global $shortname, $AF_pluginname, $current_screen;
 
 		if ( false === et_get_option( $shortname . '_fontfamily' ) && 'appearance_page_core_functions' != $current_screen->id ){
-			printf( __('<div class="updated"><p>This is a fresh installation of %1$s. Don\'t forget to go to <a href="%2$s">Arabic Font</a> to set it up. This message will disappear once you have clicked the Save button within the <a href="%2$s">plugin\'s options page</a>.</p></div>',$AF_pluginname), admin_url( 'admin.php?page=arabic-font/inc/init.php' ) );
+			printf( __('<div class="updated"><p>This is a fresh installation of Arabic Font. Don\'t forget to go to <a href="%2$s">Arabic Font</a> to set it up. This message will disappear once you have clicked the Save button within the <a href="%2$s">plugin\'s options page</a>.</p></div>',$AF_pluginname), admin_url( 'admin.php?page=arabic-font/inc/init.php' ) );
 		}
 	}
 }
