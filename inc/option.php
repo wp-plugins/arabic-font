@@ -42,6 +42,18 @@ array( "name" => "Text Align",
 "options" => array("center" => "Center", "right" => "Right", "left" => "Left"),
 "std" => "Center"),
 
+array( "name" => "Default class",
+"desc" => "Default class based on panel settings. If you want to add multiple class separated by comma, like: .arabic, .arab, .textarab",
+"id" => $shortname."_defaultcssclass",
+"type" => "text",
+"std" => ".arab"),
+
+array( "name" => "Custom Styles",
+"desc" => "Custom CSS you want to add for some additional need.",
+"id" => $shortname."_customcss",
+"type" => "textarea",
+"std" => ""),
+
 array( "type" => "close"),
  
 );

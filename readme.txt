@@ -2,7 +2,7 @@
 Contributors: darto
 Tags: arabic, font, arabic text, shortcode
 Tested up to: 4.0
-Stable tag: 1.1
+Stable tag: 1.2
 Requires at least: 3.0
 
 An easy way to stylish your Arabic font
@@ -48,3 +48,10 @@ All you have to do is highlight the Arabic text that you want to change the font
 3. **More Setting for Shortcode** - Choose your Arabic text to <code><span></code> that will not change the Arabic text position in the paragraph and <code><div></code> if you want make Arabic text as new paragraph, and of cpurse you can choose font for Arabic text. 
 4. **Display Result** - This is how the different between <code><span></code> and <code><div></code> and different font in same posts or pages
 5. **Panel** - Panel for more easy to apply for simple shortcode
+
+== Changelog ==
+
+= 1.2 =
+Release date: January 5, 2015
+
+*Add option for default class and custom css*
